@@ -37,6 +37,6 @@ public class Product {
             System.out.print(e.getMessage());
 
         }
-        sc.close();
+        // sc.close();
     }
 }
